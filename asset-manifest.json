@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/safetorun-landing-age/static/css/main.2acafa54.chunk.css",
+    "main.js": "/safetorun-landing-age/static/js/main.52525fdd.chunk.js",
+    "main.js.map": "/safetorun-landing-age/static/js/main.52525fdd.chunk.js.map",
+    "runtime-main.js": "/safetorun-landing-age/static/js/runtime-main.11565f4f.js",
+    "runtime-main.js.map": "/safetorun-landing-age/static/js/runtime-main.11565f4f.js.map",
+    "static/js/2.2d016ddc.chunk.js": "/safetorun-landing-age/static/js/2.2d016ddc.chunk.js",
+    "static/js/2.2d016ddc.chunk.js.map": "/safetorun-landing-age/static/js/2.2d016ddc.chunk.js.map",
+    "index.html": "/safetorun-landing-age/index.html",
+    "precache-manifest.f8b36e670795e20198ac36f01dbcb511.js": "/safetorun-landing-age/precache-manifest.f8b36e670795e20198ac36f01dbcb511.js",
+    "service-worker.js": "/safetorun-landing-age/service-worker.js",
+    "static/css/main.2acafa54.chunk.css.map": "/safetorun-landing-age/static/css/main.2acafa54.chunk.css.map",
+    "static/js/2.2d016ddc.chunk.js.LICENSE.txt": "/safetorun-landing-age/static/js/2.2d016ddc.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/safetorun-landing-age/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/feature-tile-icon-01.svg": "/safetorun-landing-age/static/media/feature-tile-icon-01.0f9928d7.svg",
+    "static/media/feature-tile-icon-02.svg": "/safetorun-landing-age/static/media/feature-tile-icon-02.bd39f304.svg",
+    "static/media/feature-tile-icon-03.svg": "/safetorun-landing-age/static/media/feature-tile-icon-03.66f37ba5.svg",
+    "static/media/feature-tile-icon-04.svg": "/safetorun-landing-age/static/media/feature-tile-icon-04.836acd10.svg",
+    "static/media/feature-tile-icon-05.svg": "/safetorun-landing-age/static/media/feature-tile-icon-05.fa9ba00b.svg",
+    "static/media/feature-tile-icon-06.svg": "/safetorun-landing-age/static/media/feature-tile-icon-06.6a177696.svg",
+    "static/media/features-split-image-01.png": "/safetorun-landing-age/static/media/features-split-image-01.d9cb99ce.png",
+    "static/media/features-split-image-02.png": "/safetorun-landing-age/static/media/features-split-image-02.3c569239.png",
+    "static/media/features-split-image-03.png": "/safetorun-landing-age/static/media/features-split-image-03.87e4d053.png",
+    "static/media/logo.svg": "/safetorun-landing-age/static/media/logo.2810a88b.svg",
+    "static/media/video-placeholder.jpg": "/safetorun-landing-age/static/media/video-placeholder.a622fc5d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11565f4f.js",
+    "static/js/2.2d016ddc.chunk.js",
+    "static/css/main.2acafa54.chunk.css",
+    "static/js/main.52525fdd.chunk.js"
+  ]
+}
